@@ -1,0 +1,11 @@
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/utils/LoggingFactory.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/auxiliar/FlatMapFunctionImpl.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/dto/TweetDTO.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/utils/Utils.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/dto/KeywordDTO.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/dto/TweetUserDTO.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/test/TestBatch.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/auxiliar/FileSinkFunction.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/auxiliar/ValidTagsTweetEndpoIntinitializer.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/test/TestFlinkKafkaConsumer.java
+/home/jorge/workspace-j2ee/DataStreamingAlumnos2/src/main/java/data/streaming/test/TestFlinkKafkaProducer.java
